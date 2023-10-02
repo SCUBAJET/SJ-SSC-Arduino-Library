@@ -1,4 +1,4 @@
-# VescUart
+# Scubajet SSC Arduino Library
 
 Arduino library for interfacing with a SCUBAJET Portable over UART.
 
