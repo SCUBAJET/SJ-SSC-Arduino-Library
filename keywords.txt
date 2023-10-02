@@ -1,0 +1,25 @@
+#######################################
+# Syntax Coloring Map For vescUart
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+VescUart 	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+setSerialPort		KEYWORD2
+setDebugPort		KEYWORD2
+getVescValues		KEYWORD2
+setCurrent			KEYWORD2
+setBrakeCurrent		KEYWORD2
+setRPM				KEYWORD2
+setDuty				KEYWORD2
+sendKeepalive       KEYWORD2
+setSCUBA_POWER_ON   KEYWORD2
+sendSCUBA_POWER_KEEPALIVE   KEYWORD2
+setSCUBA_LED_ON        KEYWORD2
+setSCUBA_LED_OFF       KEYWORD2
